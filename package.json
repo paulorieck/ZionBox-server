@@ -1,0 +1,17 @@
+{
+  "name": "zionbox-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zionbox-server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Grupo GWTK (www.gwtk.com.br)",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-session": "^1.16.2",
+    "nedb-session-store": "^1.1.2",
+    "ws": "^7.1.0"
+  }
+}
