@@ -1,7 +1,7 @@
 {
   "name": "zionbox-server",
-  "version": "1.0.0",
-  "description": "",
+  "version": "1.0.1",
+  "description": "Server Module - This is a secured and decentralized file system on the web!",
   "main": "zionbox-server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,5 +13,18 @@
     "express-session": "^1.16.2",
     "nedb-session-store": "^1.1.2",
     "ws": "^7.1.0"
+  },
+  "keywords": [
+    "server",
+    "ipfs",
+    "file manager",
+    "decentralized",
+    "decentralization",
+    "aes256",
+    "crypto"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulorieck/ZionBox-Server.git"
   }
 }
