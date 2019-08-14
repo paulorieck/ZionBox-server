@@ -1,6 +1,6 @@
 {
   "name": "zionbox-server",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Server Module - This is a secured and decentralized file system on the web!",
   "main": "zionbox-server.js",
   "scripts": {
